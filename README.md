@@ -1,3 +1,7 @@
+Youtube Link - 
+https://youtu.be/t3AB-WaXFSM
+
+
 1. INTRODUCTION
 
 Handwritten digit recognition is a pivotal application of computer vision and machine learning, offering an essential bridge between human communication and computational systems. The ability to accurately recognize and classify handwritten digits has widespread practical applications, from automated postal services to character recognition in scanned documents and education tools. This report provides an in-depth exploration of a handwritten digit recognition system, implemented using Convolutional Neural Networks (CNNs), and showcases a user-friendly front-end interface.
